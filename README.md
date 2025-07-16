@@ -55,7 +55,3 @@ dart run main.dart
 ## 🧠 Why This Project?
 
 This is a warm-up exercise for learning Dart before diving into Flutter. It’s a great way to build comfort with the language syntax and core concepts through a real-world scenario.
-
----
-
-### 📅 Created by [Alexander Agu](https://github.com/your-username)
